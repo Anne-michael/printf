@@ -7,6 +7,7 @@
  * @c: Char to be evaluated.
  *
  * Return: 1 if c is printable, 0 otherwise
+ * By Abraham and Maryann
  */
 
 int is_printable(char c)
